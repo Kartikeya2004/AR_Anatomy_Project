@@ -86,7 +86,8 @@ git clone https://github.com/Kartikeya2004/AR_Anatomy_Project.git
 
 ### Image Target
 Print or display the anatomy image target on screen and point your camera at it to trigger the AR model.
-
+The image marker is located in the `marker/` folder.
+![Marker](marker/marker.png)
 ---
 
 ## 🎮 How to Use
